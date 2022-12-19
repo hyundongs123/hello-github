@@ -24,6 +24,7 @@ public class Main {
 	
 	public void feature() {
 		System.out.println("maaaaaaaaaaaster!!!!!!!!!");
+		System.out.println("feeeeeeeeeeeeature!");
 	}
 
 }
